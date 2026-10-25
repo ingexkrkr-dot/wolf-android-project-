@@ -1,11 +1,10 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Nom de l'application: Wolf Custom VPN -->
     <string name="app_name">Wolf Custom VPN</string>
     <string name="app_tagline">Rapide • Sécurisé • Privé</string>
     <string name="tile_label">Wolf VPN</string>
-    
-    <!-- Écran de connexion Wolf Net Share en français (LTR) -->
+
     <string name="connection_status">État de la connexion</string>
     <string name="status_connected">Connecté - Actif</string>
     <string name="status_disconnected">Déconnecté</string>
@@ -22,7 +21,6 @@
     <string name="lang_en">English (LTR)</string>
     <string name="lang_fr">Français (LTR)</string>
 
-    <!-- Liens officiels et auteur -->
     <string name="author_url">https://t.me/Mistar_wolfnet</string>
     <string name="github_url">https://t.me/Mistar_wolfnet</string>
     <string name="bug_report_url">https://t.me/Mistar_wolfnet</string>
@@ -30,16 +28,13 @@
     <string name="official_channel">Canal officiel &amp; Support</string>
     <string name="telegram_channel">t.me/Mistar_wolfnet</string>
 
-    <!-- Vérification de l'application requise et sécurité -->
     <string name="required_app_package">core.vpn3jx.xtreme</string>
-    <string name="required_app_missing_toast">L'application requise doit d'abord être installée</string>
-    <string name="required_app_title">L'application requise doit être installée</string>
-    <string name="required_app_desc">L'exécution de Wolf Custom VPN nécessite la présence du paquet :
-core.vpn3jx.xtreme
-sur votre appareil.</string>
+    <string name="required_app_missing_toast">L’application requise doit d’abord être installée</string>
+    <string name="required_app_title">L’application requise doit être installée</string>
+    <string name="required_app_desc">L’exécution de Wolf Custom VPN nécessite la présence du paquet : core.vpn3jx.xtreme sur votre appareil.</string>
     <string name="btn_download_telegram">Télécharger via Telegram</string>
     <string name="btn_retry_check">Réessayer la vérification</string>
-    <string name="btn_close_app">Quitter l'application</string>
-    <string name="app_info_title">Informations sur l'application &amp; Support</string>
+    <string name="btn_close_app">Quitter l’application</string>
+    <string name="app_info_title">Informations sur l’application &amp; Support</string>
     <string name="btn_close">Fermer</string>
 </resources>
