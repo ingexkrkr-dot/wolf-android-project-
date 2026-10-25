@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- اسم التطبيق الظاهر للمستخدم: Wolf Custom VPN -->
+    <string name="app_name">Wolf Custom VPN</string>
+    <string name="app_tagline">سريع • آمن • مشفر</string>
+    <string name="tile_label">Wolf VPN</string>
+    
+    <!-- نصوص شاشة الاتصال Wolf Net Share باللغة العربية مع اتجاه RTL -->
+    <string name="connection_status">حالة الاتصال</string>
+    <string name="status_connected">متصل بنجاح - نشط</string>
+    <string name="status_disconnected">غير متصل - متوقف</string>
+    <string name="status_medium">متوسط</string>
+    <string name="connection_duration">مدة الاتصال</string>
+    <string name="upload_data">بيانات الرفع</string>
+    <string name="download_data">بيانات التنزيل</string>
+    <string name="connected_devices">الأجهزة المتصلة</string>
+    <string name="devices_count">%1$d أجهزة</string>
+    <string name="connection_type">نوع الشبكة</string>
+    <string name="settings">الإعدادات</string>
+    <string name="select_language">تغيير لغة التطبيق</string>
+    <string name="lang_ar">العربية (RTL)</string>
+    <string name="lang_en">English (LTR)</string>
+    <string name="lang_fr">Français (LTR)</string>
+
+    <!-- روابط Author / GitHub / Report a bug الموجهة للمستخدم -->
+    <string name="author_url">https://t.me/Mistar_wolfnet</string>
+    <string name="github_url">https://t.me/Mistar_wolfnet</string>
+    <string name="bug_report_url">https://t.me/Mistar_wolfnet</string>
+    <string name="support_telegram_url">https://t.me/Mistar_wolfnet</string>
+    <string name="official_channel">القناة الرسمية والدعم</string>
+    <string name="telegram_channel">t.me/Mistar_wolfnet</string>
+
+    <!-- نصوص التحقق والحماية من التعديل -->
+    <string name="required_app_package">core.vpn3jx.xtreme</string>
+    <string name="required_app_missing_toast">يجب تثبيت التطبيق المطلوب أولاً</string>
+    <string name="required_app_title">يجب تثبيت التطبيق المطلوب أولاً</string>
+    <string name="required_app_desc">يتطلب تشغيل Wolf Custom VPN وجود الحزمة:
+core.vpn3jx.xtreme
+على جهازك لمتابعة الاتصال.</string>
+    <string name="btn_download_telegram">تحميل التطبيق عبر تليجرام</string>
+    <string name="btn_retry_check">إعادة الفحص والتحقق</string>
+    <string name="btn_close_app">إغلاق التطبيق</string>
+    <string name="app_info_title">معلومات التطبيق والدعم</string>
+    <string name="btn_close">إغلاق</string>
+</resources>
